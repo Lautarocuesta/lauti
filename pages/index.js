@@ -22,6 +22,17 @@ export default function Home() {
           width={500}
           height={500}
         />
+
+        <iframe
+          src="https://widget.coinlib.io/widget?type=full_v2&theme=light&cnt=6&pref_coin_id=1505&graph=yes"
+          width="100%"
+          height="409px"
+          scrolling="auto"
+          marginWidth="0"
+          marginHeight="0"
+          frameBorder="0"
+          border="0"
+        ></iframe>
       </main>
 
       <footer className={styles.footer}>Hey, I am Lauti</footer>
