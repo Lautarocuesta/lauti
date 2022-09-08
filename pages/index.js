@@ -14,7 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to{" "}
-          <a href="https://www.instagram.com/lautarocuesta/">Lauti</a>
+        <a href="https://www.instagram.com/lautarocuesta/">lauti!</a>
         </h1>
         <Image
           src="/img.1.jpg"
