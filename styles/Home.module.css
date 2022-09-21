@@ -33,6 +33,11 @@
   text-decoration: none;
 }
 
+.socialLink a {
+  color: #0070f3;
+  text-decoration: underline;
+}
+
 .title a:hover,
 .title a:focus,
 .title a:active {
